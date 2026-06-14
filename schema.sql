@@ -2,7 +2,7 @@
 -- Furniture Store Service Operations Database
 -- Schema: defines all tables and relationships
 -- Domain: Retail furniture store — post-sale service management
--- Author: Dikshya Mathema | BA/BSA Portfolio Project
+-- Author: Dikshya | BA/BSA Portfolio Project
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS furniture_ops;
