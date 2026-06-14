@@ -33,6 +33,6 @@ Files
 
 | File | Description |
 
-| `schema.sql` | Creates the database and tables |
-| `seed.sql` | Loads realistic sample data based on real operational workflow |
-| `queries.sql` | SQL queries answering real business questions |
+| 'schema.sql' | Creates the database and tables |
+| 'seed.sql' | Loads realistic sample data based on real operational workflow |
+| 'queries.sql' | SQL queries answering real business questions |
