@@ -1,4 +1,4 @@
-# Retail Store Service Operations — SQL Portfolio Project
+# Retail Store Service Operations: SQL Portfolio Project
 
 This project is about ecommerce operations daily service report that shows all the customers data regarding their purchase, including status and various stages of production and so on.
 
