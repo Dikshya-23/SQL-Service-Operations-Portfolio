@@ -1,9 +1,7 @@
 -- ============================================================
--- Furniture Store Service Operations Database
--- Seed Data: realistic fake data based on real operational workflow
--- Domain: Retail furniture store — post-sale service management
--- Author: Dikshya | BA/BSA Portfolio Project
--- Note: All names, order numbers, and dates are fictional
+-- Customer Service Operations Database
+-- Seed Data: sample data based on real operational workflow
+-- Domain: Retail — post-sale service management
 -- ============================================================
 
 USE furniture_ops;
