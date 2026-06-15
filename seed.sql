@@ -34,7 +34,7 @@ INSERT INTO customers (full_name, phone, email, order_number, created_at) VALUES
 -- ------------------------------------------------------------
 -- SERVICE REQUESTS (18 records)
 -- Covers all real status types from operational workflow
--- assigned_to: 'Diana Reyes' = SOA (you), 'Mark Sullivan' = Manager
+-- assigned_to: 'Diana Reyes' 'Mark Sullivan' = Manager
 -- ------------------------------------------------------------
 INSERT INTO service_requests (
     customer_id, ticket_number, issue_description, product_type,
